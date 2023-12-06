@@ -1,4 +1,5 @@
 # Calcule-Gasoline
+# This code is very simple, im studying program about 1 month or less, so I made this!
 km = float(input('\033[33mHow many kilometers will be driven?'))
 lc = float(input('\033[34mHow much does the car go per liter of gas?'))
 p = float(input('\033[35mHow many people go in the car?'))
